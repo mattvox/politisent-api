@@ -8,7 +8,7 @@ cytoolz==0.8.2
 dill==0.2.7
 Django==1.11.3
 django-filter==1.1.0
-djangorestframework==3.7.1
+djangorestframework==3.11.2
 en-core-web-sm==1.2.0
 flake8==3.3.0
 ftfy==4.4.3
